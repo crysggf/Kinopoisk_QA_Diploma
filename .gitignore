@@ -1,0 +1,22 @@
+
+# API tokens and environment variables
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE settings
+.vscode/
+
+# Test reports
+allure-results/
+allure-report/
+test-results/
