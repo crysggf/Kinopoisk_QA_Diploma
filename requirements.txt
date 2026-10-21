@@ -1,5 +1,5 @@
 pytest
 requests
-playwringht
+playwright
 allure-pytest
 python-dotenv
